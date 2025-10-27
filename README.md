@@ -26,13 +26,15 @@
 ---
 
 ### 📁 Portfolio Projects
-> Сюди будемо додавати реальні роботи по мірі навчання ✅
-
 | Project | Status | Stack |
-|--------|--------|------|
-| **[Personal Portfolio Website](https://ivanrakhilchuk.github.io/portfolio-website/)** · [code](https://github.com/IvanRakhilchuk/portfolio-website) | ✅ Live | HTML + CSS + JS |
-| First React App | Coming Soon | React |
+|--------|--------|--------|
+| [Personal Portfolio Website](https://ivanrakhilchuk.github.io/portfolio-website/) · [code](https://github.com/IvanRakhilchuk/portfolio-website) | ✅ Live | HTML + CSS + JS |
+| [JS Mini Project – Password Generator](https://ivanrakhilchuk.github.io/js-mini-project/) · [code](https://github.com/IvanRakhilchuk/js-mini-project) | ✅ Live | JavaScript |
 | Full-Stack App | Coming Soon | MERN |
+
+### 📬 Contact
+- Email: vvasilovich00@gmail.com**  
+- GitHub: [@IvanRakhilchuk](https://github.com/IvanRakhilchuk)
 
 
 ---
