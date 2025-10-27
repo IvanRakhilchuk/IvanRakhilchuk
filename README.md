@@ -30,9 +30,10 @@
 
 | Project | Status | Stack |
 |--------|--------|------|
-| Personal Portfolio Website | Coming Soon | HTML + CSS + JS |
+| **[Personal Portfolio Website](https://ivanrakhilchuk.github.io/portfolio-website/)** · [code](https://github.com/IvanRakhilchuk/portfolio-website) | ✅ Live | HTML + CSS + JS |
 | First React App | Coming Soon | React |
 | Full-Stack App | Coming Soon | MERN |
+
 
 ---
 
