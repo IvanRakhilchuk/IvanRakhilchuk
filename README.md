@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github_banner_darktech.png" alt="GitHub Banner" />
+</p>
 <h1 align="center">Hi 👋, I'm Ivan Rakhilchuk</h1>
 <h3 align="center">Aspiring Full-Stack Developer | Currently in training | Open to freelance projects</h3>
 
