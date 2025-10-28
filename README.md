@@ -71,13 +71,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanRakhilchuk&show_icons=true&theme=github_dark&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanRakhilchuk&theme=github-dark&hide_border=true" height="160px"/>
-</p>
-
----
 
 ⭐️ _This profile page will grow together with my skills_  
 
