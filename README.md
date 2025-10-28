@@ -46,8 +46,9 @@
 <!-- Найчастіші мови -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRakhilchuk&layout=compact&langs_count=8&theme=tokyonight" height="160" />
 
-<!-- Стрік активності -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanRakhilchuk&theme=tokyonight" height="160" />
+<!-- Активність -->
+<img src="https://streak-stats.demolab.com?user=IvanRakhilchuk&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
+
 
 </div>
 
