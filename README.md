@@ -36,6 +36,22 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+### 📊 GitHub Stats
+
+<div align="center">
+
+<!-- Загальна статистика -->
+<img src="https://github-readme-stats.vercel.app/api?username=IvanRakhilchuk&show_icons=true&count_private=true&include_all_commits=true&hide_title=false&theme=radical" height="160" />
+
+<!-- Найчастіші мови -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRakhilchuk&layout=compact&langs_count=8&theme=radical" height="160" />
+
+<!-- Стрік активності -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanRakhilchuk&theme=radical" height="160" />
+
+</div>
+
+---
 
 ### 📁 Portfolio Projects
 
