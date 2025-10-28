@@ -28,12 +28,14 @@
 
 ---
 
-## 📁 Portfolio Projects
-| Project | Live | Code | Stack |
-|--------|------|------|------|
-| Personal Portfolio Website | ✅ [Live](https://ivanrakhilchuk.github.io/portfolio-website/) | 🔗 [Repo](https://github.com/IvanRakhilchuk/portfolio-website) | HTML + CSS + JS |
-| JS Password Generator | ✅ [Live](https://ivanrakhilchuk.github.io/js-mini-project/) | 🔗 [Repo](https://github.com/IvanRakhilchuk/js-mini-project) | JavaScript |
-| Full-Stack App | ⏳ Coming Soon | 🔜 | MERN |
+### 📁 Portfolio Projects
+
+| Project | Live Demo | Code |
+|----------|------------|------|
+| 🌐 **Portfolio Website** | [🔗 View Site](https://ivanrakhilchuk.github.io/portfolio-website/) | [💻 Repository](https://github.com/IvanRakhilchuk/portfolio-website) |
+| 🔐 **JS Mini Project – Password Generator** | [🔗 View App](https://ivanrakhilchuk.github.io/js-mini-project/) | [💻 Repository](https://github.com/IvanRakhilchuk/js-mini-project) |
+| 🚀 **Full-Stack App** | Coming soon | MERN Stack |
+
 
 ---
 
