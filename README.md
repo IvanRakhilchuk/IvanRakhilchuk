@@ -47,7 +47,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRakhilchuk&layout=compact&langs_count=8&theme=tokyonight" height="160" />
 
 <!-- Активність -->
-<img src="https://streak-stats.demolab.com?user=IvanRakhilchuk&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
+<a href="https://git.io/streak-stats">
+  <img
+    src="https://streak-stats.demolab.com?user=IvanRakhilchuk&theme=tokyonight&hide_border=true&card_width=420&date_format=j%20M%5B,%20Y%5D&v=2"
+    height="160"
+  />
+</a>
+
 
 
 </div>
