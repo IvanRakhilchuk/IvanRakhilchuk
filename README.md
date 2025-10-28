@@ -40,7 +40,7 @@
 ---
 
 ## 📬 Contact
-- 📧 Email: **your.email@example.com**
+- 📧 Email: **vvasilovich00@gmail.com**
 - 💼 GitHub: [@IvanRakhilchuk](https://github.com/IvanRakhilchuk)
 - 🔗 LinkedIn: Coming Soon
 
