@@ -41,13 +41,13 @@
 <div align="center">
 
 <!-- Загальна статистика -->
-<img src="https://github-readme-stats.vercel.app/api?username=IvanRakhilchuk&show_icons=true&count_private=true&include_all_commits=true&hide_title=false&theme=radical" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=IvanRakhilchuk&show_icons=true&count_private=true&include_all_commits=true&hide_title=false&theme=tokyonight" height="160" />
 
 <!-- Найчастіші мови -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRakhilchuk&layout=compact&langs_count=8&theme=radical" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRakhilchuk&layout=compact&langs_count=8&theme=tokyonight" height="160" />
 
 <!-- Стрік активності -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanRakhilchuk&theme=radical" height="160" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanRakhilchuk&theme=tokyonight" height="160" />
 
 </div>
 
