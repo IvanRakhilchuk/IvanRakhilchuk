@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/IvanRakhilchuk/IvanRakhilchuk/main/banner.png" alt="Ivan Rakhilchuk banner" />
+<img src="https://raw.githubusercontent.com/IvanRakhilchuk/IvanRakhilchuk/main/github_banner_darktech.png" alt="Ivan Rakhilchuk banner" />
 
 <h1>Hi 👋 I'm Ivan Rakhilchuk</h1>
 
