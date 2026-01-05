@@ -1,76 +1,79 @@
-<p align="center">
-  <img src="github_banner_darktech.png" width="100%" alt="Banner"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Ivan Rakhilchuk</h1>
-<p align="center">
-  Aspiring Full-Stack Web Developer • Currently in training • Open to freelance projects
-</p>
-
----
-
-## 🚀 About Me
-- 👨‍💻 Becoming a **Full-Stack Developer** step by step  
-- 🎯 My goals: remote work + freelance clients  
-- 📚 I grow through practice and real projects  
-- 📩 How to reach me → see Contact section below
-
----
-
-## 🧠 Current Learning
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-### 🧠 Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-### 📊 GitHub Stats
-
 <div align="center">
 
-<!-- Загальна статистика -->
-<img src="https://github-readme-stats.vercel.app/api?username=IvanRakhilchuk&show_icons=true&count_private=true&include_all_commits=true&hide_title=false&theme=tokyonight" height="160" />
+<img src="https://raw.githubusercontent.com/IvanRakhilchuk/IvanRakhilchuk/main/banner.png" alt="Ivan Rakhilchuk banner" />
 
-<!-- Найчастіші мови -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRakhilchuk&layout=compact&langs_count=8&theme=tokyonight" height="160" />
+<h1>Hi 👋 I'm Ivan Rakhilchuk</h1>
 
-<!-- Активність -->
-![GitHub Streak](https://streak-stats.demolab.com?user=IvanRakhilchuk&theme=tokyonight&hide_border=true&date_format=j%20M%5B,%20Y%5D&cache_seconds=86400&v=4)
+<p>
+Aspiring Full-Stack Developer • Learning step by step • Building real projects
+</p>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=7C7CFF&center=true&vCenter=true&width=720&lines=HTML+%7C+CSS+%7C+JavaScript;Git+%7C+GitHub+%7C+VS+Code;Building+portfolio+projects+on+GitHub+Pages;Growing+every+day"
+  alt="Typing SVG"
+/>
+
+<br/><br/>
+
+<a href="https://ivanrakhilchuk.github.io/portfolio-website/">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Site-7C7CFF?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
+<a href="https://github.com/IvanRakhilchuk?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-### 📁 Portfolio Projects
+## 👨‍💻 About Me
 
-| Project | Live Demo | Code |
-|----------|------------|------|
-| 🌐 **Portfolio Website** | [🔗 View Site](https://ivanrakhilchuk.github.io/portfolio-website/) | [💻 Repository](https://github.com/IvanRakhilchuk/portfolio-website) |
-| 🔐 **JS Mini Project – Password Generator** | [🔗 View App](https://ivanrakhilchuk.github.io/js-mini-project/) | [💻 Repository](https://github.com/IvanRakhilchuk/js-mini-project) |
-| 🚀 **Full-Stack App** | Coming soon | MERN Stack |
+- 🧩 I’m learning web development from scratch and improving every day  
+- 🧪 I focus on practice: small projects → bigger projects  
+- 🧱 I like clean UI, structure, and “done” results (not just theory)
 
+---
+
+## 🧠 Current Learning
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark" />
+</div>
+
+---
+
+## 🚀 Portfolio Projects
+
+| Project | Live Demo | Code | Status |
+|---|---|---|---|
+| 🌐 Portfolio Website | [View Site](https://ivanrakhilchuk.github.io/portfolio-website/) | [Repo](https://github.com/IvanRakhilchuk/portfolio-website) | ✅ Live |
+| 🔐 JS Mini Project — Password Generator | [View App](https://ivanrakhilchuk.github.io/js-mini-project/) | [Repo](https://github.com/IvanRakhilchuk/js-mini-project) | ✅ Live |
+| 🧠 Full-Stack App | Coming soon | MERN (planned) | ⏳ In progress |
+
+> ⭐ New projects will appear here as I study and build.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=IvanRakhilchuk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRakhilchuk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="160" src="https://streak-stats.demolab.com?user=IvanRakhilchuk&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
 ## 📬 Contact
-- 📧 Email: **vvasilovich00@gmail.com**
-- 💼 GitHub: [@IvanRakhilchuk](https://github.com/IvanRakhilchuk)
-- 🔗 LinkedIn: Coming Soon
+
+- 📧 Email: vasilovich00@gmail.com  
+- 🔗 GitHub: https://github.com/IvanRakhilchuk  
+- 💼 LinkedIn: Coming soon  
 
 ---
 
-
-⭐️ _This profile page will grow together with my skills_  
-
+<div align="center">
+  <sub>✨ This profile will grow together with my skills.</sub>
+</div>
