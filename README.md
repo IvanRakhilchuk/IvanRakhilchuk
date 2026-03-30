@@ -5,7 +5,9 @@
 <br><br>
 
 <h1>Ivan Rakhilchuk</h1>
-
+<p>
+🚀 I build real working products, not just training projects
+</p>
 <p><strong>Full-Stack Developer in progress • Building real web products</strong></p>
 
 <p>Focused on practical development, clean UI, and consistent project growth.</p>
