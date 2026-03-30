@@ -30,8 +30,7 @@
 👉 https://ivanrakhilchuk.github.io/UA_FLAME/  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1b356a5a-2633-44d2-b392-259d6b5eddfe" />
-" width="800"/>
+  <img src="https://github.com/user-attachments/assets/1b356a5a-2633-44d2-b392-259d6b5eddfe" width="800" />
 </p>
 
 ---
@@ -40,8 +39,7 @@
 👉 https://ivanrakhilchuk.github.io/audit-app/
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/928ef8fa-54dd-412a-90f2-8788dd25a219" />
-" width="800"/>
+  <img src="https://github.com/user-attachments/assets/928ef8fa-54dd-412a-90f2-8788dd25a219" width="800"/>
 </p>
 
 ---
