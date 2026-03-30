@@ -6,7 +6,7 @@
 </p>
 
 <br><br>
-
+<p align="center">
 <a href="https://ivanrakhilchuk.github.io/UA_FLAME/">
   <img src="https://img.shields.io/badge/Featured_Project-UA_FLAME-7C7CFF?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
