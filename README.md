@@ -105,7 +105,7 @@ Brand website for handmade eco candles with strong visual presentation and produ
 </p>
 
 <p align="center">
-  <a href="https://ivanrakhilchuk.github.io/UA_FLAME/">
+  <a href="https://ivanrakhilchuk.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-7C7CFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
