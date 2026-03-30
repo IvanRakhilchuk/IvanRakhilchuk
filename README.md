@@ -118,6 +118,7 @@ Dashboard-style project focused on structured data presentation, comparison logi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRakhilchuk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
+
 ## Contact
 
 <div align="center">
