@@ -14,7 +14,7 @@
 👉 https://ivanrakhilchuk.github.io/Weather-Pro-App/  
 
 <p align="center">
-  <img src="ТУТ_ВСТАВ_СКРІН_WEATHER" width="700"/>
+  <img src="<img width="1080 height="914" alt="Знімок екрана 2026-03-30 135915" src="https://github.com/user-attachments/assets/80a00619-5bc5-49c9-b742-2c32613813dc" />
 </p>
 
 ---
