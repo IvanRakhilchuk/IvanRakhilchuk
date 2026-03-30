@@ -1,27 +1,24 @@
-<img width="1542" height="949" alt="Знімок екрана 2026-03-30 140455" src="https://github.com/user-attachments/assets/9b7cf1bd-58f3-4cd0-af7b-25bfa088f81d" /><div align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/IvanRakhilchuk/IvanRakhilchuk/main/github_banner_darktech.png" alt="Ivan Rakhilchuk Banner" width="100%" />
+<img src="https://raw.githubusercontent.com/IvanRakhilchuk/IvanRakhilchuk/main/github_banner_darktech.png" alt="Ivan Rakhilchuk Banner" />
 
 <br><br>
 
 <h1>Ivan Rakhilchuk</h1>
 
-<p><strong>Full-Stack Developer • Building real working products</strong></p>
+<p>
+Full-Stack Developer (in progress) • Building real projects step by step
+</p>
 
-<p>Focused on practical development, clean UI, and real project growth.</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+in+progress;Building+real+projects+step+by+step;HTML+%7C+CSS+%7C+JavaScript+%7C+GitHub;Focused+on+practice+and+growth" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3000&pause=800&color=7C7CFF&center=true&vCenter=true&width=800&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+Git+%7C+GitHub;Building+real+projects+from+day+one;Growing+my+portfolio+with+every+project" alt="Typing SVG" />
 
 <br><br>
 
-<a href="https://ivanrakhilchuk.github.io/UA_FLAME/">
-  <img src="https://img.shields.io/badge/Featured_Project-UA_FLAME-7C7CFF?style=for-the-badge&logo=firefox&logoColor=white" />
+<a href="https://ivanrakhilchuk.github.io/portfolio-website/">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Site-7C7CFF?style=for-the-badge&logo=githubpages&logoColor=white" />
 </a>
 <a href="https://github.com/IvanRakhilchuk?tab=repositories">
   <img src="https://img.shields.io/badge/GitHub-Repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:vasilovich00@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
 
 </div>
