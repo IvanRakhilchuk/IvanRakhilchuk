@@ -1,85 +1,142 @@
-<h1 align="center">🚀 Ivan Rakhilchuk</h1>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/IvanRakhilchuk/IvanRakhilchuk/main/github_banner_darktech.png" alt="Ivan Rakhilchuk Banner" />
+
+<br><br>
+
+<h1>Ivan Rakhilchuk</h1>
+
+<p>
+Aspiring Full-Stack Developer • Building real projects step by step
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=7C7CFF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+in+progress;HTML+%7C+CSS+%7C+JavaScript+%7C+Git+%7C+GitHub;Building+real+projects+from+day+one;Growing+my+portfolio+with+every+project" alt="Typing SVG" />
+
+<br><br>
+
+<a href="https://ivanrakhilchuk.github.io/portfolio-website/">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20Site-7C7CFF?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
+<a href="https://github.com/IvanRakhilchuk?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Repositories-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## About Me
+
+- Full-Stack Developer in progress  
+- Focused on building practical projects, not only theory  
+- Improving step by step through real development practice  
+- This profile grows together with my skills and portfolio
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark" />
+
+</div>
+
+---
+
+## Featured Projects
+
+### Weather Pro App
+Modern weather application built with JavaScript, clean UI, weather search, and practical front-end logic.
 
 <p align="center">
-  💻 Full-Stack Developer (in progress) <br>
-  🔥 Building real projects <br>
-  🚀 Open to freelance work
+  <a href="https://ivanrakhilchuk.github.io/Weather-Pro-App/">
+    <img src="https://raw.githubusercontent.com/IvanRakhilchuk/IvanRakhilchuk/main/assets/weather-pro-app.png" width="850" alt="Weather Pro App Preview" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=HTML+CSS+JavaScript+Developer;Building+Projects+Every+Day;Ready+for+Freelance+Work" />
+  <a href="https://ivanrakhilchuk.github.io/Weather-Pro-App/">
+    <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-7C7CFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h2 align="center">🔥 My Projects</h2>
-
----
-
-### 🌦 Weather App  
-👉 https://ivanrakhilchuk.github.io/Weather-Pro-App/  
+### UA_FLAME
+Brand website project for handmade eco candles with a visual presentation and product-oriented layout.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b3f0cf30-096e-490e-8712-f14a8fbe346c" width="800"/>
+  <a href="https://ivanrakhilchuk.github.io/UA_FLAME/">
+    <img src="https://raw.githubusercontent.com/IvanRakhilchuk/IvanRakhilchuk/main/assets/ua-flame.png" width="850" alt="UA_FLAME Preview" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://ivanrakhilchuk.github.io/UA_FLAME/">
+    <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-7C7CFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🔥 UA_FLAME  
-👉 https://ivanrakhilchuk.github.io/UA_FLAME/  
+### Audit Dashboard
+Interface-focused project for structured data presentation and practical dashboard layout work.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1b356a5a-2633-44d2-b392-259d6b5eddfe" width="800" />
+  <a href="https://github.com/IvanRakhilchuk/audit-dashboard">
+    <img src="https://raw.githubusercontent.com/IvanRakhilchuk/IvanRakhilchuk/main/assets/audit-dashboard.png" width="850" alt="Audit Dashboard Preview" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/IvanRakhilchuk/audit-dashboard">
+    <img src="https://img.shields.io/badge/Repository-Open%20Project-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🧠 Audit Tool  
-👉 https://ivanrakhilchuk.github.io/audit-app/
+## Current Focus
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/928ef8fa-54dd-412a-90f2-8788dd25a219" width="800"/>
-</p>
-
----
-
-<h2 align="center">🛠 Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
-</p>
+- JavaScript practice
+- Responsive layouts
+- UI structure and clean styling
+- GitHub portfolio growth
+- Full-Stack development journey
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanRakhilchuk&show_icons=true&theme=tokyonight&border_radius=15" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanRakhilchuk&theme=tokyonight&border_radius=15" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=IvanRakhilchuk&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRakhilchuk&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 
-<h2 align="center">🔥 Activity</h2>
+<img src="https://streak-stats.demolab.com?user=IvanRakhilchuk&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="GitHub Streak" />
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanRakhilchuk&theme=tokyo-night" />
-</p>
+</div>
 
 ---
 
-<h2 align="center">📩 Contact</h2>
+## Contact
 
-<p align="center">
-  📧 your_email@gmail.com
-</p>
+<div align="center">
+
+<a href="mailto:vasilovich00@gmail.com">
+  <img src="https://img.shields.io/badge/Email-vasilovich00%40gmail.com-7C7CFF?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/IvanRakhilchuk">
+  <img src="https://img.shields.io/badge/GitHub-IvanRakhilchuk-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  ⚡ This profile grows with my skills 🚀
-</p>
+<div align="center">
+  <sub>Professional growth through real projects and consistent practice.</sub>
+</div>
