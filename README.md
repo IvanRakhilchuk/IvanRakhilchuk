@@ -98,7 +98,7 @@
 ### 🌦 Weather App
 👉 https://ivanrakhilchuk.github.io/Weather-Pro-App/
 📸  
-![Weather](<img width="1080" height="914" alt="Знімок екрана 2026-03-30 135915" src="https://github.com/user-attachments/assets/e977bd7a-1996-4b1e-80cf-f442bc2bb88f" />
+![Weather] <img width="1080" height="914" alt="Знімок екрана 2026-03-30 135915" src="https://github.com/user-attachments/assets/e977bd7a-1996-4b1e-80cf-f442bc2bb88f" />
 )
 
 ---
@@ -114,7 +114,7 @@
 ### 🧠 Audit Tool
 👉https://ivanrakhilchuk.github.io/audit-app/
 📸  
-![Audit]()<img width="1351" height="770" alt="Знімок екрана 2026-03-30 135851" src="https://github.com/user-attachments/assets/58144b52-aa27-4696-9df2-332bbf6aedb0" />
+![Audit] <img width="1351" height="770" alt="Знімок екрана 2026-03-30 135851" src="https://github.com/user-attachments/assets/58144b52-aa27-4696-9df2-332bbf6aedb0" />
 
 
 ---
