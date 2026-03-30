@@ -7,10 +7,10 @@
 <h1>Ivan Rakhilchuk</h1>
 
 <p>
-Full-Stack Developer (in progress) • Building real projects step by step
+Aspiring Full-Stack Developer • Building real projects step by step
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3000&pause=800&color=7C7CFF&center=true&vCenter=true&width=800&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+Git+%7C+GitHub;Building+real+projects+from+day+one;Growing+my+portfolio+with+every+project" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&color=7C7CFF&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+in+progress;HTML+%7C+CSS+%7C+JavaScript+%7C+Git+%7C+GitHub;Building+real+projects+from+day+one;Growing+my+portfolio+with+every+project" alt="Typing SVG" />
 
 <br><br>
 
@@ -22,6 +22,7 @@ Full-Stack Developer (in progress) • Building real projects step by step
 </a>
 
 </div>
+
 
 ---
 
