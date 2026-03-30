@@ -37,9 +37,7 @@
 ## Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,figma&theme=dark" alt="Tech Stack" />
 </div>
 
 ---
