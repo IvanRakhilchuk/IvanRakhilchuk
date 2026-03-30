@@ -1,20 +1,27 @@
-<h1 align="center">👋 Ivan Rakhilchuk</h1>
+<h1 align="center">🚀 Ivan Rakhilchuk</h1>
 
 <p align="center">
   💻 Full-Stack Developer (in progress) <br>
-  🚀 Building real projects step by step <br>
-  🔥 Open to freelance projects
+  🔥 Building real projects <br>
+  🚀 Open to freelance work
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=HTML+CSS+JavaScript+Developer;Building+Projects+Every+Day;Ready+for+Freelance+Work" />
 </p>
 
 ---
 
-<h2 align="center">🚀 My Projects</h2>
+<h2 align="center">🔥 My Projects</h2>
+
+---
 
 ### 🌦 Weather App  
 👉 https://ivanrakhilchuk.github.io/Weather-Pro-App/  
 
 <p align="center">
-  <img src="<img width="1080 height="914" alt="Знімок екрана 2026-03-30 135915" src="https://github.com/user-attachments/assets/80a00619-5bc5-49c9-b742-2c32613813dc" />
+  <img src="https://github.com/user-attachments/assets/b3f0cf30-096e-490e-8712-f14a8fbe346c" width="800"/>
+
 </p>
 
 ---
@@ -23,16 +30,15 @@
 👉 https://ivanrakhilchuk.github.io/UA_FLAME/  
 
 <p align="center">
-  <img src="ТУТ_СКРІН_UA_FLAME" width="700"/>
+  <img src="ТУТ_UA_FLAME" width="800"/>
 </p>
 
 ---
 
 ### 🧠 Audit Tool  
-👉 (якщо є посилання встав)  
 
 <p align="center">
-  <img src="ТУТ_СКРІН_AUDIT" width="700"/>
+  <img src="ТУТ_AUDIT" width="800"/>
 </p>
 
 ---
@@ -48,11 +54,19 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IvanRakhilchuk&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IvanRakhilchuk&show_icons=true&theme=tokyonight&border_radius=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanRakhilchuk&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IvanRakhilchuk&theme=tokyonight&border_radius=15" />
+</p>
+
+---
+
+<h2 align="center">🔥 Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IvanRakhilchuk&theme=tokyo-night" />
 </p>
 
 ---
@@ -60,11 +74,11 @@
 <h2 align="center">📩 Contact</h2>
 
 <p align="center">
-  📧 vvasilovich00@gmail.com
+  📧 your_email@gmail.com
 </p>
 
 ---
 
 <p align="center">
-  ⚡ This profile grows with my skills
+  ⚡ This profile grows with my skills 🚀
 </p>
