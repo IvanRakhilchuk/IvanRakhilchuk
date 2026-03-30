@@ -95,7 +95,7 @@ Dashboard-style project focused on structured data presentation, comparison logi
 Brand website for handmade eco candles with strong visual presentation and product-focused layout.
 
 <p align="center">
-  <a href="https://ivanrakhilchuk.github.io/UA_FLAME/">
+  <a href="https://ivanrakhilchuk.github.io/portfolio/">
     <img src="https://github.com/user-attachments/assets/6d3ddd89-193a-414b-a59f-7c7b2b6558af" width="700"/>
   </a>
 </p>
