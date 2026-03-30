@@ -91,6 +91,26 @@ Dashboard-style project focused on structured data presentation, comparison logi
   </a>
 </p>
 
+### Portfolio
+Brand website for handmade eco candles with strong visual presentation and product-focused layout.
+
+<p align="center">
+  <a href="https://ivanrakhilchuk.github.io/UA_FLAME/">
+    <img src="https://github.com/user-attachments/assets/6d3ddd89-193a-414b-a59f-7c7b2b6558af" width="700"/>
+  </a>
+</p>
+
+<p align="center">
+  🔥 My Portfolio • 🌐 Live Demo • 🎨 Visual Showcase
+</p>
+
+<p align="center">
+  <a href="https://ivanrakhilchuk.github.io/UA_FLAME/">
+    <img src="https://img.shields.io/badge/Live%20Demo-View%20Project-7C7CFF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+
 ## Current Focus
 
 - JavaScript practice
