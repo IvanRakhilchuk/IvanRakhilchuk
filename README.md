@@ -85,3 +85,47 @@
 <br/>
 <sub>This profile will grow together with my skills 🚀</sub>
 </div>
+# 👋 Ivan Rakhilchuk
+
+💻 Full-Stack Developer (in progress)  
+🚀 Building real projects step by step  
+🔥 Open to freelance projects  
+
+---
+
+## 🚀 My Projects
+
+### 🌦 Weather App
+👉 https://ivanrakhilchuk.github.io/Weather-Pro-App/
+📸  
+![Weather](<img width="1080" height="914" alt="Знімок екрана 2026-03-30 135915" src="https://github.com/user-attachments/assets/e977bd7a-1996-4b1e-80cf-f442bc2bb88f" />
+)
+
+---
+
+### 🔥 UA_FLAME
+👉 https://ivanrakhilchuk.github.io/UA_FLAME/
+📸  
+![UA_FLAME]()<img width="1542" height="949" alt="Знімок екрана 2026-03-30 140455" src="https://github.com/user-attachments/assets/f31ab3c3-f4e2-4bbf-ac70-7d8bddb39aa3" />
+
+
+---
+
+### 🧠 Audit Tool
+👉https://ivanrakhilchuk.github.io/audit-app/
+📸  
+![Audit]()<img width="1351" height="770" alt="Знімок екрана 2026-03-30 135851" src="https://github.com/user-attachments/assets/58144b52-aa27-4696-9df2-332bbf6aedb0" />
+
+
+---
+
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Git / GitHub
+
+---
+
+## 📩 Contact
+📧 your_email@gmail.com
