@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Ivan%20Rakhilchuk&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20Real%20Projects&descAlignY=55&descSize=18" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+real+projects;JavaScript+%7C+HTML+%7C+CSS;Open+to+work" />
+</p>
 
 <br><br>
 
