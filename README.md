@@ -119,5 +119,24 @@ Dashboard-style project focused on structured data presentation, comparison logi
 
 ---
 
+## Current Focus
+
+- JavaScript practice
+- Responsive layouts
+- Clean UI structure
+- GitHub portfolio growth
+- Full-Stack development journey
+
 ## GitHub Stats
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=IvanRakhilchuk&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRakhilchuk&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=IvanRakhilchuk&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="GitHub Streak" />
+
+</div>
+
+## Contact
