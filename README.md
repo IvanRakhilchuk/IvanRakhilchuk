@@ -7,18 +7,6 @@
 
 <br><br>
 
-<h1>Ivan Rakhilchuk</h1>
-<p>
-🚀 I build real working products, not just training projects
-</p>
-<p><strong>Full-Stack Developer in progress • Building real web products</strong></p>
-
-<p>Focused on practical development, clean UI, and consistent project growth.</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer+in+progress;Building+real+projects+step+by+step;HTML+%7C+CSS+%7C+JavaScript+%7C+GitHub;Focused+on+practice+and+growth" alt="Typing SVG" />
-
-<br><br>
-
 <a href="https://ivanrakhilchuk.github.io/UA_FLAME/">
   <img src="https://img.shields.io/badge/Featured_Project-UA_FLAME-7C7CFF?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
