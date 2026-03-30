@@ -111,9 +111,13 @@ Dashboard-style project focused on structured data presentation, comparison logi
 
 ## 🚀 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IvanRakhilchuk&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanRakhilchuk&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://img.shields.io/badge/Total%20Projects-3-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-JavaScript-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+
+</p>
 
 ## Contact
 
