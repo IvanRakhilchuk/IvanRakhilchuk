@@ -1,6 +1,6 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/IvanRakhilchuk/IvanRakhilchuk/main/github_banner_darktech.png" alt="Ivan Rakhilchuk Banner" width="100%" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Ivan%20Rakhilchuk&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20Real%20Projects&descAlignY=55&descSize=18" />
+</p>
 
 <br><br>
 
